@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Algorythmization Lab_04_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA471EB-953D-4083-9BDD-01B9FF323C54}|Algorythmization Lab_04_2\\Algorythmization Lab_04_2.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab_04_2\\Algorythmization Lab_04_2\\Lab_04_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BA471EB-953D-4083-9BDD-01B9FF323C54}|Algorythmization Lab_04_2\\Algorythmization Lab_04_2.vcxproj|solutionrelative:Algorythmization Lab_04_2\\Lab_04_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_04_2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab_04_2\\Algorythmization Lab_04_2\\Lab_04_2.cpp",
+              "RelativeDocumentMoniker": "Algorythmization Lab_04_2\\Lab_04_2.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab_04_2\\Algorythmization Lab_04_2\\Lab_04_2.cpp",
+              "RelativeToolTip": "Algorythmization Lab_04_2\\Lab_04_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T12:36:54.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
